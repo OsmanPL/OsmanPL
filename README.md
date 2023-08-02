@@ -55,6 +55,6 @@
 You can contact me through my email: [osmanperez66@gmail.com](mailto:osmanperez66@gmail.com)
 
 <p align="left">
-<a href="https://www.linkedin.com/in/davdprado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/osmanpl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otra" height="30" width="40" /></a>
 </p>
 
