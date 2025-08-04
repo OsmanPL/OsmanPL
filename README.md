@@ -2,7 +2,11 @@
 
 <h3 align="center">About me</h3>
 
-<p>I'm a passionate junior programmer looking to learn and develop in the world of programming and technology. I enjoy taking on new challenges and finding innovative solutions to complex problems.</p>
+<p>Hi, I'm Osman Pérez, a Software Architect who works to ensure the success of every project I'm involved in.
+I live in Guatemala and work remotely as a Software Architect on various projects, through which I’ve gained extensive experience with different technologies and continue learning cutting-edge innovations.
+My motto is: Naturally curious, always learning everything I can.
+I work mostly with: AWS | Docker | Kubernetes 
+Looking forward to learn more about: DevOps Engineer</p>
 
 <h3 align="center">Programming Language</h3>
 
